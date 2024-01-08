@@ -1,0 +1,3 @@
+/home/yo/Escritorio/Examen/switch_case/build/CMakeFiles/switch_case.dir
+/home/yo/Escritorio/Examen/switch_case/build/CMakeFiles/edit_cache.dir
+/home/yo/Escritorio/Examen/switch_case/build/CMakeFiles/rebuild_cache.dir

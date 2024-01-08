@@ -1,0 +1,7 @@
+
+#ifndef SUMA_NUMEROS_NATURALES_H
+#define SUMA_NUMEROS_NATURALES_H
+
+int Suma(int numero);
+
+#endif //SUMA_NUMEROS_NATURALES_h
